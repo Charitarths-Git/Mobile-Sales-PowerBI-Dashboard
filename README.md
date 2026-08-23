@@ -9,11 +9,6 @@
 
 ---
 
-## 🔗 Live Interactive Dashboard
-
-👆 **[Click to View Live Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
-
----
 
 ## 🎯 Project Overview
 
