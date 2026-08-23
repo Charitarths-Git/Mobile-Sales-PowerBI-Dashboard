@@ -10,6 +10,14 @@
 ---
 
 
+## 📸 Dashboard Preview
+
+| Overview Dashboard | MTD Report | YoY Comparison |
+|:-:|:-:|:-:|
+| ![Dashboard](Dashboard_Overview.png) | ![MTD Report](MTD_Report.png) | ![Same Period Last Year](YoY_Comparison.png) |
+
+---
+
 ## 🎯 Project Overview
 
 This is a **fully interactive, executive-grade Mobile Sales Analytics Dashboard** built in Microsoft Power BI. It analyzes **3,835+ retail transactions** across India's major cities, covering multiple smartphone brands, payment channels, and customer demographics.
