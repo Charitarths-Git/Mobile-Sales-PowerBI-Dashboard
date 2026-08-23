@@ -1,0 +1,95 @@
+{
+  "name": "Modern Corporate Teal",
+  "dataColors": [
+    "#0E7490",
+    "#06B6D4",
+    "#10B981",
+    "#3B82F6",
+    "#6366F1",
+    "#8B5CF6",
+    "#F59E0B",
+    "#EF4444",
+    "#14B8A6",
+    "#64748B"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#0E7490",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12,
+            "fontColor": { "solid": { "color": "#0F172A" } },
+            "alignment": "Left"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E2E8F0" } },
+            "radius": 8
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#000000" } },
+            "transparency": 95,
+            "position": "Outer",
+            "preset": "BottomRight"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "fontFamily": "Segoe UI Bold",
+            "fontSize": 24,
+            "color": { "solid": { "color": "#0F172A" } }
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 10,
+            "color": { "solid": { "color": "#64748B" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 10,
+            "fontColor": { "solid": { "color": "#0F172A" } }
+          }
+        ],
+        "items": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 9,
+            "fontColor": { "solid": { "color": "#334155" } },
+            "background": { "solid": { "color": "#F1F5F9" } }
+          }
+        ]
+      }
+    }
+  }
+}
