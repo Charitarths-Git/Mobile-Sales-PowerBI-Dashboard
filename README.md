@@ -220,9 +220,9 @@ RETURN DIVIDE([Total_Sales] - LM, LM, 0)
 
 ## 👨‍💻 Author
 
-**Nikhil Prakash**
-- GitHub: [@Coding-yeager](https://github.com/Coding-yeager)
-- Email: nikhilprakash0904@gmail.com
+**Charitarth Singh**
+- GitHub: [@Charitarths-Git](https://github.com/Charitarths-Git)
+- Email: charitarthsingh130git@gmail.com
 
 ---
 
